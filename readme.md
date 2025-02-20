@@ -1,6 +1,8 @@
 Usage:
 
-``python main.py (gameurl)``
+
+``pip install -r requirements.txt
+python main.py (gameurl)``
 
 for example, for https://speedrun.com/sa2b
 
